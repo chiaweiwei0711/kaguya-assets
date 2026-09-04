@@ -12,3 +12,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - furyu2701/ — FuRyu景品 台灣代理版 2027年1月（25張，檔名=JAN）
 - tapioca2612/ — 2026-08 TAPIOCA 2026.12-1月新品（8作品綜合團・82張，檔名=JAN_序號）
 - mhafujiq/ — 2026-09 我英×富士急樂園 KADOKAWA官方通販（53張，官方一覽圖切格；9/18 官方商品頁上線後換正式圖）
+- tekutomo2701/ — 2026-09 進擊的巨人＆孤獨搖滾 tekutomo 針織帽玩偶吊飾 抱盒（Bushiroad Creative・6 張，檔名=JAN／JAN_序號；官方通販圖）
