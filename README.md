@@ -15,3 +15,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - tekutomo2701/ — 2026-09 進擊的巨人＆孤獨搖滾 tekutomo 針織帽玩偶吊飾 抱盒（Bushiroad Creative・6 張，檔名=JAN／JAN_序號；官方通販圖）
 - kitarodoubutsu/ — 2026-09 鬼太郎誕生 咯咯咯之謎 動物型態玩偶吊飾 再販（Ensky・6 張，檔名=JAN_序號；milestone 公開CDN 827px 正/背）
 - snksan/ — 2026-09 進擊的巨人×三麗鷗角色大賞 第5彈 POPUP（アニまるっ！WEB通販・41張，官方特設站一覽圖切格＋3倍放大；10/30 官方商品頁上線後換正式圖）
+- tougenankikuji/ — 2026-09 桃源暗鬼 くじメイト線上抽賞（animate・A賞4款選款圖，官方a.jpg合成圖切格；賞別合成圖直連官方）
