@@ -17,3 +17,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - snksan/ — 2026-09 進擊的巨人×三麗鷗角色大賞 第5彈 POPUP（アニまるっ！WEB通販・41張，官方特設站一覽圖切格＋3倍放大；10/30 官方商品頁上線後換正式圖）
 - tougenankikuji/ — 2026-09 桃源暗鬼 くじメイト線上抽賞（animate・A賞4款選款圖，官方a.jpg合成圖切格；賞別合成圖直連官方）
 - mhaxebec2612/ — 2026-09 我的英雄學院 XEBEC 12月新品（おほしさま星星系列＋Q版周邊・16張，XEBEC 官方news公告圖4096px切板/切角色）
+- keroroplex2612/ — 2026-09 KERORO軍曹 Plex/XEBEC 12月新品（むにきゃら徽章盒＋まるコレ盒＋零錢包5款＋扁平收納袋5款・14張，XEBEC 官方news eid=208 公告圖切板/切角色）
