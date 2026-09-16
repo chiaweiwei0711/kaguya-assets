@@ -20,3 +20,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - keroroplex2612/ — 2026-09 KERORO軍曹 Plex/XEBEC 12月新品（むにきゃら徽章盒＋まるコレ盒＋零錢包5款＋扁平收納袋5款・14張，XEBEC 官方news eid=208 公告圖切板/切角色）
 - sega2702/ — 2026-09 SEGA 2027年2月 台灣代理版景品（咒術死滅迴游／戀上換裝娃娃／世界計畫・8 張，檔名=JAN；萬榮後台 SegaPrizeCatalog 2000px 原圖）
 - furyu2702/ — 2026-09 FuRyu 代理版景品 2027年2月（萬榮 id=12363・6 張，檔名=JAN；蕾潔 4573646296756 為官方未解禁剪影，正式圖出來要換；cover.jpg 沿用 furyu2701 白底 FuRyu logo）
+- bp2702/ — 2026-09 BANPRESTO 代理版景品 2027年2月（萬榮 id=12383・76 張「隻」單位，檔名=bp{圖號}；後台 1200px 原圖）
