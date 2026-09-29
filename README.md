@@ -23,3 +23,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - bp2702/ — 2026-09 BANPRESTO 代理版景品 2027年2月（萬榮 id=12383・76 張「隻」單位，檔名=bp{圖號}；後台 1200px 原圖）
 - aotluckycat/ — 2026-09 進擊的巨人 招財貓 TOKYOGETS 10月新品（大立牌／御守燙金吊飾／雷射立牌 各6款・18張，檔名=JAN；milestone 公開CDN 3000px 原圖縮 1200px）
 - slribbon/ — 2026-09 躍動青春 Q版緞帶系列＋favorite series（アニメバコ官方通販・34張商品圖，檔名=JAN；cover.jpg=官方KV，來源 X 官推）
+- matsuigenga/ — 2026-09 松井優征原畫展 ～The Appeal of Human～ JCS受注（暗殺教室／擅長逃跑的殿下／魔人偵探腦嚙涅羅・cover.jpg=官方活動banner jcscts2892.webp 轉jpg；商品圖直連 JCS 官方 /img/goods/L/）
