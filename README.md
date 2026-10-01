@@ -16,6 +16,7 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - kitarodoubutsu/ — 2026-09 鬼太郎誕生 咯咯咯之謎 動物型態玩偶吊飾 再販（Ensky・6 張，檔名=JAN_序號；milestone 公開CDN 827px 正/背）
 - snksan/ — 2026-09 進擊的巨人×三麗鷗角色大賞 第5彈 POPUP（アニまるっ！WEB通販・41張，官方特設站一覽圖切格＋3倍放大；10/30 官方商品頁上線後換正式圖）
 - tougenankikuji/ — 2026-09 桃源暗鬼 くじメイト線上抽賞（animate・A賞4款選款圖，官方a.jpg合成圖切格；賞別合成圖直連官方）
+- mha10ring/ — 2026-10 我的英雄學院 10th Anniversary 留言戒指 純銀（U-TREASURE官圖三人合圖切單人戒指9張；綠谷用官方單人圖直連）
 - mhaxebec2612/ — 2026-09 我的英雄學院 XEBEC 12月新品（おほしさま星星系列＋Q版周邊・16張，XEBEC 官方news公告圖4096px切板/切角色）
 - keroroplex2612/ — 2026-09 KERORO軍曹 Plex/XEBEC 12月新品（むにきゃら徽章盒＋まるコレ盒＋零錢包5款＋扁平收納袋5款・14張，XEBEC 官方news eid=208 公告圖切板/切角色）
 - sega2702/ — 2026-09 SEGA 2027年2月 台灣代理版景品（咒術死滅迴游／戀上換裝娃娃／世界計畫・8 張，檔名=JAN；萬榮後台 SegaPrizeCatalog 2000px 原圖）
