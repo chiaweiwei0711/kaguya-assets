@@ -28,3 +28,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - matsuigenga/ — 2026-09 松井優征原畫展 ～The Appeal of Human～ JCS受注（暗殺教室／擅長逃跑的殿下／魔人偵探腦嚙涅羅・cover.jpg=官方活動banner jcscts2892.webp 轉jpg；商品圖直連 JCS 官方 /img/goods/L/）
 - jcsgintama/ — 2026-10 銀魂 JCS 10/2受注（オールスター缶バッジ100種＋BIG藝術板/GIGA立牌等・cover.jpg=JCS官推 1200px 原圖 pbs.twimg HTmFCN7bYAE2mJB；商品圖直連 JCS 官方 /img/goods/L/）
 - jcsgintamaten/ — 2026-10 銀魂展～はたちのつどい～ JCS事後販売（eCTS-2934・cover.jpg=JCS官推 1200px 原圖 pbs.twimg HTmBc1dbIAAycxT；商品圖直連 JCS 官方 /img/goods/L/）
+- kimetsujsfair/ — 2026-10 JSO 鬼滅之刃fair（JUMP SHOP 鬼滅の刃フェア 10/9〜25）p01–p39＝Canva 商品卡（瓦多截圖貼框，官網開賣前無官方圖）
