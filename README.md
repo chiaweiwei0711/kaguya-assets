@@ -29,6 +29,6 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - jcsgintama/ — 2026-10 銀魂 JCS 10/2受注（オールスター缶バッジ100種＋BIG藝術板/GIGA立牌等・cover.jpg=JCS官推 1200px 原圖 pbs.twimg HTmFCN7bYAE2mJB；商品圖直連 JCS 官方 /img/goods/L/）
 - jcsgintamaten/ — 2026-10 銀魂展～はたちのつどい～ JCS事後販売（eCTS-2934・cover.jpg=JCS官推 1200px 原圖 pbs.twimg HTmBc1dbIAAycxT；商品圖直連 JCS 官方 /img/goods/L/）
 - kimetsujsfair/ — 2026-10 JSO 鬼滅之刃fair（JUMP SHOP 鬼滅の刃フェア 10/9〜25）p01–p39＝Canva 商品卡（瓦多截圖貼框，官網開賣前無官方圖）
-- bandai-soul-1009/ — 2026-10 萬代魂系列 代理版（萬榮 id=12488 單號 20261005173535，24 張＝萬榮 /public/product-images/ 流水號 1–24，檔名改 JAN）
+- bandai-soul-1009/ — 2026-10 萬代魂系列 代理版（萬榮 id=12488 單號 20261005173535，24 張＝萬榮 /public/product-images/ 流水號 1–24，檔名改 JAN；cover.jpg＝tamashiiweb 官方 og.png 1200×630 TAMASHII NATIONS logo）
 - mhametal7/ — 2026-10 萬代 我的英雄學院 金屬卡片收藏集 第7彈 代理版（萬榮 id=12489 單號 20261005174424，圖1＝官方KV，檔名改 JAN 4582770082500）
 - mhapopart/ — 2026-10 我的英雄學院 POP Art（A3・milestone 預約截止10/13；6 張＝A3 eeo Store 官方 800px 圖，檔名 JAN；eeo 通販 10/18 收）
