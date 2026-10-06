@@ -33,3 +33,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - mhametal7/ — 2026-10 萬代 我的英雄學院 金屬卡片收藏集 第7彈 代理版（萬榮 id=12489 單號 20261005174424，圖1＝官方KV，檔名改 JAN 4582770082500）
 - mhapopart/ — 2026-10 我的英雄學院 POP Art（A3・milestone 預約截止10/13；6 張＝A3 eeo Store 官方 800px 圖，檔名 JAN；eeo 通販 10/18 收）
 - saikiensky2612/ — 2026-10 齊木楠雄的災難 Ensky 10週年 迷你吊飾＋透明寫真卡 再販（milestone 預約截止10/11；4 張＝image.b2bmilestone.com 公開 CDN 原圖 _01 商品總表／_03 全款一覽，檔名＝商品編號）
+- tongari-kanahei/ — 2026-10 MOVIC 魔法帽的工作室×卡娜赫拉的小動物（鉅霖 dream-link 單號2862 MOVIC 1014 結單；3 張＝dream-link 原圖 600×600，animate 只有佔位圖的貼紙/布偶裝資料夾/保溫杯，檔名 JAN；其餘 16 件直連 animate）
