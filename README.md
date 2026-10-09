@@ -36,3 +36,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - saikiensky2612/ — 2026-10 齊木楠雄的災難 Ensky 10週年 迷你吊飾＋透明寫真卡 再販（milestone 預約截止10/11；4 張＝image.b2bmilestone.com 公開 CDN 原圖 _01 商品總表／_03 全款一覽，檔名＝商品編號）
 - tongari-kanahei/ — 2026-10 MOVIC 魔法帽的工作室×卡娜赫拉的小動物（鉅霖 dream-link 單號2862 MOVIC 1014 結單；3 張＝dream-link 原圖 600×600，animate 只有佔位圖的貼紙/布偶裝資料夾/保溫杯，檔名 JAN；其餘 16 件直連 animate）
 - rement-1014/ — 2026-10 Re-ment 盒玩 11 款（鉅霖 dream-link 單號3071 Re-ment盒玩 1014 結單；dream-link 原圖，檔名 JAN）
+- akane-retropop/ — 2026-10 朱音落語 れとぽぷ Retro Pop（鉅霖 dream-link 單號3061 Playful Mind Company 1021 結單；24 張＝dream-link 原圖 800×800，檔名 JAN）
