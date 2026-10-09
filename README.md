@@ -37,3 +37,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - tongari-kanahei/ — 2026-10 MOVIC 魔法帽的工作室×卡娜赫拉的小動物（鉅霖 dream-link 單號2862 MOVIC 1014 結單；3 張＝dream-link 原圖 600×600，animate 只有佔位圖的貼紙/布偶裝資料夾/保溫杯，檔名 JAN；其餘 16 件直連 animate）
 - rement-1014/ — 2026-10 Re-ment 盒玩 11 款（鉅霖 dream-link 單號3071 Re-ment盒玩 1014 結單；dream-link 原圖，檔名 JAN）
 - akane-retropop/ — 2026-10 朱音落語 れとぽぷ Retro Pop（鉅霖 dream-link 單號3061 Playful Mind Company 1021 結單；24 張＝dream-link 原圖 800×800，檔名 JAN）
+- sasamiya-movic/ — 2026-10 MOVIC 佐佐木與宮野 Q版小立牌＆收藏冊（鉅霖 dream-link 單號3068 MOVIC 1011 結單急單；cover.jpg＝movic 官方 X 宣傳圖 1500×1219；商品圖直連 movic.jp）
