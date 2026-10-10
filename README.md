@@ -38,3 +38,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - rement-1014/ — 2026-10 Re-ment 盒玩 11 款（鉅霖 dream-link 單號3071 Re-ment盒玩 1014 結單；dream-link 原圖，檔名 JAN）
 - akane-retropop/ — 2026-10 朱音落語 れとぽぷ Retro Pop（鉅霖 dream-link 單號3061 Playful Mind Company 1021 結單；24 張＝dream-link 原圖 800×800，檔名 JAN）
 - sasamiya-movic/ — 2026-10 MOVIC 佐佐木與宮野 Q版小立牌＆收藏冊（鉅霖 dream-link 單號3068 MOVIC 1011 結單急單；cover.jpg＝movic 官方 X 宣傳圖 1500×1219；商品圖直連 movic.jp）
+- tapioca2702c/ — 2026-10 TAPIOCA 2027.1-2月新品-3 多作品團封面（四格拼圖：桃源暗鬼／守護甜心／普羅米亞／魔男伊奇，anime-store 官方圖）
