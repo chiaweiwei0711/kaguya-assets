@@ -40,4 +40,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - sasamiya-movic/ — 2026-10 MOVIC 佐佐木與宮野 Q版小立牌＆收藏冊（鉅霖 dream-link 單號3068 MOVIC 1011 結單急單；cover.jpg＝movic 官方 X 宣傳圖 1500×1219；商品圖直連 movic.jp）
 - tapioca2702c/ — 2026-10 TAPIOCA 2027.1-2月新品-3 多作品團封面（四格拼圖：桃源暗鬼／守護甜心／普羅米亞／魔男伊奇，anime-store 官方圖）
 - maxjan27/ — 2026-10 MAX Limited 2027/1月新品團（milestone ③；あみあみ商品圖＋凱蒂貓生日吊飾官方商品表；官網STORES有的6款直連不搬）
-- mhasukajan/ — 2026-10 YTE 我的英雄學院 穿上絲卡將 再販（鉅霖 ②；dream-link 商品圖，檔名＝JAN）
+- sukajanx87/ — 2026-10 YTE 我的英雄學院 Wear it Sukajan 再販（鉅霖 ②；dream-link 商品圖，檔名＝JAN）
