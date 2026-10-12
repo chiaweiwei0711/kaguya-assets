@@ -41,3 +41,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - tapioca2702c/ — 2026-10 TAPIOCA 2027.1-2月新品-3 多作品團封面（四格拼圖：桃源暗鬼／守護甜心／普羅米亞／魔男伊奇，anime-store 官方圖）
 - maxjan27/ — 2026-10 MAX Limited 2027/1月新品團（milestone ③；あみあみ商品圖＋凱蒂貓生日吊飾官方商品表；官網STORES有的6款直連不搬）
 - sukajanx87/ — 2026-10 YTE 我的英雄學院 穿上絲卡將 再販（鉅霖 ②；dream-link 商品圖，檔名＝JAN）
+- sega2703/ — 2026-10 SEGA景品 3-5月新品 代理版（萬榮 ④；43 張萬榮 2000px 原圖檔名=JAN＋6 張未解禁佔位卡＋cover.jpg SEGA logo 白底）
