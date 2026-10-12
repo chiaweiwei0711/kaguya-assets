@@ -42,3 +42,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - maxjan27/ — 2026-10 MAX Limited 2027/1月新品團（milestone ③；あみあみ商品圖＋凱蒂貓生日吊飾官方商品表；官網STORES有的6款直連不搬）
 - sukajanx87/ — 2026-10 YTE 我的英雄學院 穿上絲卡將 再販（鉅霖 ②；dream-link 商品圖，檔名＝JAN）
 - sega2703/ — 2026-10 SEGA景品 3-5月新品 代理版（萬榮 ④；43 張萬榮 2000px 原圖檔名=JAN＋6 張未解禁佔位卡＋cover.jpg SEGA logo 白底）
+- frieren-ny-toho/ — 2026-10 TOHO 葬送的芙莉蓮 新年版權 12月新品（鉅霖 ② TOHO 1021 單號3084；商品圖直連 TOHO 官網，這裡只放精華卡 cards/ 與 cover_card.jpg）
