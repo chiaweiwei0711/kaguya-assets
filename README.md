@@ -49,3 +49,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - jcsichi/ — 2026-10 JCS 魔男伊奇 名場面立牌＆藝術板受注（① 代購；商品圖直連 JCS 官網，這裡只放精華卡 cards/＋cover_card.jpg）
 - hqproofjan27/ — 2026-10 PROOF 排球少年 椅子立牌＆糖果吊飾第2彈 1月新品（② 鉅霖 PROOF 1101 結單；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
 - perihapi04/ — 2026-10 T-ARTS PERIHAPI! 捉迷藏公仔 大耳狗緞帶ver.＆排球少年疑似青年 4月新品（② 鉅霖 Takaratomy Arts 1028 結單；KV＝鉅霖後台、白底陣容＝sootang，檔名JAN；精華卡 cards/＋cover_card.jpg）
+- frieren-tenitol/ — 2026-10 FuRyu TENITOL petit 葬送的芙莉蓮 代理版（④ 萬榮 FuRyu 27年3月景品單 12450，1030 結單；商品圖直連 FURYU HOBBY MALL；精華卡 cards/＋cover_card.jpg）
