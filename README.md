@@ -52,3 +52,5 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - perihapi04/ — 2026-10 T-ARTS PERIHAPI! 捉迷藏公仔 大耳狗緞帶ver.＆排球少年疑似青年 4月新品（② 鉅霖 Takaratomy Arts 1028 結單；KV＝鉅霖後台、白底陣容＝sootang，檔名JAN；精華卡 cards/＋cover_card.jpg）
 - frieren-tenitol/ — 2026-10 FuRyu TENITOL petit 葬送的芙莉蓮 代理版（④ 萬榮 FuRyu 27年3月景品單 12450，1030 結單；商品圖直連 FURYU HOBBY MALL；精華卡 cards/＋cover_card.jpg）
 - kusuri-twretro/ — 2026-10 Twincre 藥師少女的獨語 復古系列 第2彈再販＋第4彈 12月新品（② 鉅霖 Twincre 1018 結單；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
+- conan-crux12/ — 2026-10 CRUX 名偵探柯南 秋之華和裝 12月新品（② 鉅霖 CRUX商品 1018 結單 單號3080；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
+- skmt-crux12/ — 2026-10 CRUX 坂本日常 華麗西裝 12月新品（② 鉅霖 CRUX商品 1018 結單 單號3080；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
