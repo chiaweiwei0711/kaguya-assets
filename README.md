@@ -47,3 +47,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - jjk-manju/ — 2026-10 咒術迴戰 Ensky 死滅迴游 饅頭捏捏吊飾 1月新品（milestone ③；商品圖直連 enskyshop 官方；只放精華卡 cover_card.jpg）
 - jcsnoyagiga/ — 2026-10 JCS 排球少年 西谷夕 GIGA立牌受注（① 代購；商品圖直連 JCS 官網，這裡只放 cover_card.jpg）
 - jcsichi/ — 2026-10 JCS 魔男伊奇 名場面立牌＆藝術板受注（① 代購；商品圖直連 JCS 官網，這裡只放精華卡 cards/＋cover_card.jpg）
+- hqproofjan27/ — 2026-10 PROOF 排球少年 椅子立牌＆糖果吊飾第2彈 1月新品（② 鉅霖 PROOF 1101 結單；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
