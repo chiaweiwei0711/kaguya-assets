@@ -45,3 +45,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - frieren-ny-toho/ — 2026-10 TOHO 葬送的芙莉蓮 新年版權 12月新品（鉅霖 ② TOHO 1021 單號3084；商品圖直連 TOHO 官網，這裡只放精華卡 cards/ 與 cover_card.jpg）
 - conanbakery/ — 2026-10 名偵探柯南 Crux 烘焙坊 捏捏麵包吊飾 1月新品（milestone ③ group 113378；商品圖＝image.b2bmilestone.com 搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
 - jcsnoyagiga/ — 2026-10 JCS 排球少年 西谷夕 GIGA立牌受注（① 代購；商品圖直連 JCS 官網，這裡只放 cover_card.jpg）
+- jcsichi/ — 2026-10 JCS 魔男伊奇 名場面立牌＆藝術板受注（① 代購；商品圖直連 JCS 官網，這裡只放精華卡 cards/＋cover_card.jpg）
