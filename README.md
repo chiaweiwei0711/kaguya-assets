@@ -58,3 +58,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - frieren-cospa01/ — 2026-10 COSPA 葬送的芙莉蓮 T恤＆雜貨 1月新品（② 鉅霖 COSPA商品 1021 結單 單號3128；商品圖直連 COSPA 官網；精華卡 cards/＋cover_card.jpg）
 - sangoku-cospa12/ — 2026-10 COSPA 日本三國 托特包＆捏起來吊飾 12月新品（② 鉅霖 COSPA商品 1021 結單 單號3128；商品圖直連 COSPA 官網；精華卡 cards/＋cover_card.jpg）
 - ftsync11/ — 2026-10 魔導少年 SYNC 20週年 11月新品（③ milestone Sync Innovation 80%，B2B 10/25 截止；商品圖直連 SYNC 官方 VV store；精華卡 cards/＋cover_card.jpg）
+- rebornseated/ — 2026-10 D-techno 家庭教師REBORN 坐姿凝視(Seated Gaze) 1月新品（③ milestone D-techno 80%，B2B 10/28 截止；商品圖直連キャラログ官方店；精華卡 cards/＋cover_card.jpg）
