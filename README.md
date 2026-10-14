@@ -55,3 +55,5 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - conan-crux12/ — 2026-10 CRUX 名偵探柯南 秋之華和裝 12月新品（② 鉅霖 CRUX商品 1018 結單 單號3080；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
 - skmt-crux12/ — 2026-10 CRUX 坂本日常 華麗西裝 12月新品（② 鉅霖 CRUX商品 1018 結單 單號3080；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
 - hqcemar27/ — 2026-10 Culture Entertainment 排球少年 小憩筷架 3月新品（② 鉅霖 Culture Entertainment 1028 結單 單號3132；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
+- frieren-cospa01/ — 2026-10 COSPA 葬送的芙莉蓮 T恤＆雜貨 1月新品（② 鉅霖 COSPA商品 1021 結單 單號3128；商品圖直連 COSPA 官網；精華卡 cards/＋cover_card.jpg）
+- sangoku-cospa12/ — 2026-10 COSPA 日本三國 托特包＆捏起來吊飾 12月新品（② 鉅霖 COSPA商品 1021 結單 單號3128；商品圖直連 COSPA 官網；精華卡 cards/＋cover_card.jpg）
