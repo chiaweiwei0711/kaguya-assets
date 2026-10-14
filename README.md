@@ -54,3 +54,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - kusuri-twretro/ — 2026-10 Twincre 藥師少女的獨語 復古系列 第2彈再販＋第4彈 12月新品（② 鉅霖 Twincre 1018 結單；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
 - conan-crux12/ — 2026-10 CRUX 名偵探柯南 秋之華和裝 12月新品（② 鉅霖 CRUX商品 1018 結單 單號3080；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
 - skmt-crux12/ — 2026-10 CRUX 坂本日常 華麗西裝 12月新品（② 鉅霖 CRUX商品 1018 結單 單號3080；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
+- hqcemar27/ — 2026-10 Culture Entertainment 排球少年 小憩筷架 3月新品（② 鉅霖 Culture Entertainment 1028 結單 單號3132；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
