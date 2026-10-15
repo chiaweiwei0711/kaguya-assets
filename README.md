@@ -61,3 +61,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - rebornseated/ — 2026-10 D-techno 家庭教師REBORN 坐姿凝視(Seated Gaze) 1月新品（③ milestone D-techno 80%，B2B 10/28 截止；商品圖直連キャラログ官方店；精華卡 cards/＋cover_card.jpg）
 - skmt-maru12/ — 2026-10 Stella Notes 坂本日常 圓窗Ver. 12月新品（③ milestone Stella Notes 75%，B2B 10/25 截止；商品圖＝milestone 公開CDN搬來、檔名JAN；lineup_stand＝立牌官方總表；精華卡 cards/＋cover_card.jpg）
 - dnjan27/ — 2026-10 Y Line 死亡筆記本 原作漫畫＆指人形Ver. 12月新品（③ milestone Y Line 75%，B2B 10/20 截止；商品圖＝milestone 公開CDN搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
+- wbsummer27/ — 2026-10 EDITH 防風少年 夏風假期 1月新品（② 鉅霖 Edith商品 1104 結單 單號3179；商品圖＝鉅霖後台搬來、檔名JAN）
