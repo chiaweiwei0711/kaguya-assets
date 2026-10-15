@@ -62,3 +62,5 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - skmt-maru12/ — 2026-10 Stella Notes 坂本日常 圓窗Ver. 12月新品（③ milestone Stella Notes 75%，B2B 10/25 截止；商品圖＝milestone 公開CDN搬來、檔名JAN；lineup_stand＝立牌官方總表；精華卡 cards/＋cover_card.jpg）
 - dnjan27/ — 2026-10 Y Line 死亡筆記本 原作漫畫＆指人形Ver. 12月新品（③ milestone Y Line 75%，B2B 10/20 截止；商品圖＝milestone 公開CDN搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
 - wbsummer27/ — 2026-10 EDITH 防風少年 夏風假期 1月新品（② 鉅霖 Edith商品 1104 結單 單號3179；商品圖＝鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
+- frieren-movic12/ — 2026-10 MOVIC 葬送的芙莉蓮 勞動＆增量＆雀莊 12月新品（② 鉅霖 MOVIC商品 1021 結單 單號3193；商品圖直連 movic 官網；精華卡 cards/＋cover_card.jpg）
+- reborn-movic12/ — 2026-10 MOVIC 家庭教師REBORN 貼紙＆徽章 12月新品（② 鉅霖 MOVIC商品 1021 結單 單號3193；商品圖直連 movic 官網；精華卡 cards/＋cover_card.jpg）
