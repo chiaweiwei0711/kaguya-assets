@@ -65,3 +65,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - frieren-movic12/ — 2026-10 MOVIC 葬送的芙莉蓮 勞動＆增量＆雀莊 12月新品（② 鉅霖 MOVIC商品 1021 結單 單號3193；商品圖直連 movic 官網；精華卡 cards/＋cover_card.jpg）
 - reborn-movic12/ — 2026-10 MOVIC 家庭教師REBORN 貼紙＆徽章 12月新品（② 鉅霖 MOVIC商品 1021 結單 單號3193；商品圖直連 movic 官網；精華卡 cards/＋cover_card.jpg）
 - hqtrump4/ — 2026-10 排球少年 Ensky 名場面撲克牌 第4季 12月新品（milestone ③ Ensky 70%；商品圖＝B2B 官方總表裁切、檔名JAN；精華卡 cards/＋cover_card.jpg）
+- tapioca2702d/ — 2026-10 TAPIOCA 2027.2月新品-4（② 鉅霖 Tapioca商品 1025 結單 單號3186；商品圖直連 anime-store，TAPIOCA原創寶寶娃＋毛茸茸貓 7 張鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
