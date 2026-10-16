@@ -43,7 +43,7 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - sukajanx87/ — 2026-10 YTE 我的英雄學院 穿上絲卡將 再販（鉅霖 ②；dream-link 商品圖，檔名＝JAN）
 - sega2703/ — 2026-10 SEGA景品 3-5月新品 代理版（萬榮 ④；43 張萬榮 2000px 原圖檔名=JAN＋6 張未解禁佔位卡＋cover.jpg SEGA logo 白底）
 - bp2703/ — 2026-10 BANPRESTO景品 3-4月新品 代理版（萬榮 ④；58 張萬榮原圖檔名=JAN＋1 張未解禁佔位卡（藤田言音）＋cover_card.jpg 精華卡封面）
-- furyu2703/ — 2026-10 FuRyu景品 3月新品 代理版（萬榮 ④ 12581；26 張萬榮原圖檔名=JAN＋cover_card.jpg 精華卡封面＋cards/ 7 張精華卡）
+- furyu2703/ — 2026-10 FuRyu景品 3月新品 代理版（萬榮 ④ 12581；26 張萬榮原圖檔名=JAN＋cover_card.jpg 精華卡封面＋cards/ 8 張精華卡；芙莉蓮商品圖用官方 Shopify 大圖直連）
 - frieren-ny-toho/ — 2026-10 TOHO 葬送的芙莉蓮 新年版權 12月新品（鉅霖 ② TOHO 1021 單號3084；商品圖直連 TOHO 官網，這裡只放精華卡 cards/ 與 cover_card.jpg）
 - conanbakery/ — 2026-10 名偵探柯南 Crux 烘焙坊 捏捏麵包吊飾 1月新品（milestone ③ group 113378；商品圖＝image.b2bmilestone.com 搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
 - jjk-manju/ — 2026-10 咒術迴戰 Ensky 死滅迴游 饅頭捏捏吊飾 1月新品（milestone ③；商品圖直連 enskyshop 官方；只放精華卡 cover_card.jpg）
