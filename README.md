@@ -68,3 +68,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - tapioca2702d/ — 2026-10 TAPIOCA 2027.2月新品-4（② 鉅霖 Tapioca商品 1025 結單 單號3186；商品圖直連 anime-store，TAPIOCA原創寶寶娃＋毛茸茸貓 7 張鉅霖後台搬來、檔名JAN；精華卡 cards/＋cover_card.jpg）
 - jcsbday2609/ — 2026-10 JCS 2026/9月生日商品事後受注（① 代購；商品圖直連 JCS 官網，這裡只放精華卡 cards/＋cover_card.jpg）
 - hq-ny-toho/ — 2026-10 排球少年 烏野＆稻荷崎 新春版 TOHO通販（① 代購；商品圖直連 TOHO 官網，這裡只放精華卡 cards/＋cover_card.jpg）
+- kmteaster/ — 2026-10 鬼滅之刃 ゆらふわ 復活節玩偶吊飾 Aniplex通販（① 代購；商品圖直連 Aniplex 官網；精華卡 cards/＋cover_card.jpg）
