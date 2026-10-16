@@ -73,3 +73,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - saikipalude/ — 2026-10 齊木楠雄的災難 10週年 × Palude 家居服通販（① 代購 Palude 官方通販，予約 10/19–11/16；商品圖直連 Palude shop-pro；精華卡 cards/＋cover_card.jpg）
 - mhamagazine/ — 2026-10 我的英雄學院 雜誌風 TOHO通販（① 代購；商品圖直連 TOHO 官網；精華卡 cards/＋cover_card.jpg）
 - aotflower/ — 2026-10 進擊的巨人 花冠ver.（アフター京まふ2026同時通販）THE CHARA通販（① 代購，受注 10/16–10/28；商品圖直連 the-chara makeshop；精華卡 cards/＋cover_card.jpg）
+- drsblack/ — 2026-10 Dr.STONE 新石紀 黑衣ver.（アフター京まふ2026同時通販）THE CHARA通販（① 代購，受注 10/16–10/28；商品圖直連 the-chara makeshop；精華卡 cards/＋cover_card.jpg）
