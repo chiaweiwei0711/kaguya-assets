@@ -71,3 +71,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - hq-ny-toho/ — 2026-10 排球少年 烏野＆稻荷崎 新春版 TOHO通販（① 代購；商品圖直連 TOHO 官網，這裡只放精華卡 cards/＋cover_card.jpg）
 - kmteaster/ — 2026-10 鬼滅之刃 ゆらふわ 復活節玩偶吊飾 Aniplex通販（① 代購；商品圖直連 Aniplex 官網；精華卡 cards/＋cover_card.jpg）
 - saikipalude/ — 2026-10 齊木楠雄的災難 10週年 × Palude 家居服通販（① 代購 Palude 官方通販，予約 10/19–11/16；商品圖直連 Palude shop-pro；精華卡 cards/＋cover_card.jpg）
+- mhamagazine/ — 2026-10 我的英雄學院 雜誌風 TOHO通販（① 代購；商品圖直連 TOHO 官網；精華卡 cards/＋cover_card.jpg）
