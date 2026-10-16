@@ -77,3 +77,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - aotflower/ — 2026-10 進擊的巨人 花冠ver.（アフター京まふ2026同時通販）THE CHARA通販（① 代購，受注 10/16–10/28；商品圖直連 the-chara makeshop；精華卡 cards/＋cover_card.jpg）
 - drsblack/ — 2026-10 Dr.STONE 新石紀 黑衣ver.（アフター京まふ2026同時通販）THE CHARA通販（① 代購，受注 10/16–10/28；商品圖直連 the-chara makeshop；精華卡 cards/＋cover_card.jpg）
 - skmt-plaza/ — 2026-10 坂本日常 SAKAMOTO DAYS PLAZA Pochimart 線上受注（cover_card.jpg＝精華卡封面 B 框；kv.jpg＝官推 2110916963275096458 原圖；商品圖直連 Pochimart Shopify CDN）
+- blfur/ — 2026-10 藍色監獄 毛絨冬裝（Fur Collection，AGF2026）Muzzle通販（① 代購，通販 11/13–11/29；商品圖直連 Muzzle makeshop；精華卡 cards/＋cover_card.jpg）
