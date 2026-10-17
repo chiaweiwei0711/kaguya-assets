@@ -78,3 +78,4 @@ https://cdn.jsdelivr.net/gh/chiaweiwei0711/kaguya-assets@main/{團代號}/{檔�
 - drsblack/ — 2026-10 Dr.STONE 新石紀 黑衣ver.（アフター京まふ2026同時通販）THE CHARA通販（① 代購，受注 10/16–10/28；商品圖直連 the-chara makeshop；精華卡 cards/＋cover_card.jpg）
 - skmt-plaza/ — 2026-10 坂本日常 SAKAMOTO DAYS PLAZA Pochimart 線上受注（cover_card.jpg＝精華卡封面 B 框；kv.jpg＝官推 2110916963275096458 原圖；商品圖直連 Pochimart Shopify CDN）
 - blfur/ — 2026-10 藍色監獄 毛絨冬裝（Fur Collection，AGF2026）Muzzle通販（① 代購，通販 11/13–11/29；商品圖直連 Muzzle makeshop；精華卡 cards/＋cover_card.jpg）
+- enskygum2701/ — 2026-10 Ensky 2027/1月新品 吉伊卡哇／初音未來／影子籃球員 口香糖透卡貼紙食玩（② 鉅霖 Ensky 0.95–1.04 折，鉅霖 10/25 截止；商品圖＝Ensky 官網 enskyshop 圖備份（官方商店 10/17 改版怕網址變）、檔名JAN；logo.png＝官網 logo 重描放大；精華卡 cards/＋cover_card.jpg）
